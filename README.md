@@ -13,7 +13,7 @@ You're currently visiting my private GitHub account, which is a collection of va
   <a href="https://www.discordapp.com/users/Matthias#2670">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord-Logo"/>
 </a>
-  <a href="linkedin.com/in/matthias-jooß-1b2993197">
+  <a href="https://www.linkedin.com/in/matthias-jooß-1b2993197">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn-Logo" />
 </a>
   <a href="https://www.instagram.com/m.a.t.t.h.i.a.s._/">
