@@ -4,8 +4,8 @@
 
 <div align="center">
 <b>Hey stranger!</b>
-<p>I'm Matthias Jooß and I'm currently a dual student in <i>Applied Computer Science</i> at <i>Schwarz IT KG</i> and the <i>Cooperative State University Baden-Württemberg</i> in Mosbach, Germany.
-You're currently visiting my private GitHub account, which is a collection of various projects from study, work, and my own.</p>
+<p>I'm Matthias Jooß and I'm currently a student in <i>Media Informatics</i> at the <i>University of Technology, Economics and Culture</i> in Leipzig, Germany.
+You're currently visiting my private GitHub account, which is a collection of various projects from study and my own.</p>
   
 </div>
 <div align="center">
