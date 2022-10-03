@@ -4,7 +4,7 @@
 
 <div align="center">
 <b>Hey stranger!</b>
-<p>I'm Matthias Jooß and I'm currently a student in <i>Media Informatics</i> at the <i>University of Technology, Economics and Culture</i> in Leipzig, Germany.
+<p>I'm Matthias Jooß and I'm currently a student in <i>Media Informatics</i> at the <i>HTWK Leipzig</i>.
 You're currently visiting my private GitHub account, which is a collection of various projects from study and my own.</p>
   
 </div>
