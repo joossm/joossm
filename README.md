@@ -1,9 +1,5 @@
-<h1 align="center">
-  <b>Who Am I?</b>
-</h1>
-
 <div align="center">
-<b>Hey stranger!</b>
+<b>Hey visitor!</b>
 <p>I'm Matthias Jooß and I'm currently a student in <i>Media Informatics</i> at the <i>HTWK Leipzig</i>.<br>
 You're currently visiting my private GitHub account, which is a collection of various projects from study and my own.</p>
   
@@ -25,8 +21,6 @@ You're currently visiting my private GitHub account, which is a collection of va
 <div align="center">
 	<p>Things I like the most at programming:</p>
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">  
-    <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
 
